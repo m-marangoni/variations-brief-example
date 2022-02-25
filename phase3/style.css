@@ -1,0 +1,68 @@
+/* - *font-family*
+- *font-weight*
+- *font-size*
+- *text-align*
+- *line-height*
+- *letter-spacing*
+- *text-transform*
+
+
+- <*p>*
+- <*br>*
+- *&nbsp;*
+- *div*
+- *h1, h2, h3, h4, h5, h6*
+- *strong*
+- *em*
+- *big*
+- *small*
+- *ol*
+- *ul*
+- *li*
+*/
+
+
+
+body{
+    font-family: 'Yuji Syuku', monospace;
+
+}
+
+
+.title{
+        font-size: 32px;
+text-align: end;
+letter-spacing: 35px;
+
+}
+
+.author{
+        text-align: end;
+        letter-spacing: 2px;
+
+}
+
+
+.poem{
+
+line-height: 40px;
+text-align: center;
+color: rgb(216, 216, 216);
+}
+
+
+em{
+    font-family: 'Reenie Beanie';
+color: rgb(255, 255, 255);
+background-color: black;
+font-style: normal;
+letter-spacing: 3px;
+
+}
+
+
+.spaced{
+    letter-spacing: 10px;
+
+}
+

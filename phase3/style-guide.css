@@ -1,0 +1,103 @@
+
+body{
+    margin: 3%;
+}
+
+
+h2{
+    font-size: 38px;
+}
+
+div{
+    margin: 0 3% 0 3%;
+}
+span{
+font-size: 20px;
+}
+
+
+.weight{
+    font-family: 'Noto Serif Display', serif;
+
+}
+
+.thin{
+font-weight: 100;
+}
+
+
+.boldest{
+    font-weight: 900;
+}
+.font1{
+
+    font-family: 'Righteous', cursive;
+
+}
+
+.font2{
+
+    font-family: 'Reenie Beanie', cursive;
+
+}
+
+.font3{
+
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+.font4{
+
+    font-family: 'Permanent Marker', cursive;
+  
+}
+
+.font5{
+    font-family: 'Noto Serif Display', serif;
+
+}
+
+.font6{
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+
+.smol{
+font-size: 9px;
+}
+
+
+.smol2{
+    font-size: 12px;
+    }
+
+.medium{
+    font-size: 15px;
+}
+
+.medium2{
+    font-size: 18px;
+}
+
+
+
+.medium-adapt{
+    font-size: 1.5rem;
+}
+
+
+.biggie{
+    font-size: 22px;
+}
+
+.biggie2{
+    font-size: 26px;
+}
+
+
+.giant{
+    font-size: 34px;
+
+}
