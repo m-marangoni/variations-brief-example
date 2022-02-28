@@ -1,103 +1,167 @@
-
-body{
-    margin: 3%;
+body {
+    margin: 0 auto;
 }
 
 
-h2{
-    font-size: 38px;
+h2 {
+    font-size: 46px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(161, 161, 161);
+    padding: 3%;
+    margin: 0 auto;
+
 }
 
-div{
+div {
     margin: 0 3% 0 3%;
 }
-span{
-font-size: 20px;
+
+span {
+    font-size: 20px;
 }
 
 
-.weight{
+.weight {
     font-family: 'Noto Serif Display', serif;
 
 }
 
-.thin{
-font-weight: 100;
+.thin {
+    font-weight: 100;
 }
 
 
-.boldest{
+.boldest {
     font-weight: 900;
 }
-.font1{
+
+.font1 {
 
     font-family: 'Righteous', cursive;
 
 }
 
-.font2{
+.font2 {
 
     font-family: 'Reenie Beanie', cursive;
 
 }
 
-.font3{
+.font3 {
 
     font-family: 'Press Start 2P', cursive;
 
 }
 
-.font4{
+.font4 {
 
     font-family: 'Permanent Marker', cursive;
-  
+
 }
 
-.font5{
+.font5 {
     font-family: 'Noto Serif Display', serif;
 
 }
 
-.font6{
+.font6 {
     font-family: 'Bebas Neue', cursive;
 
 }
 
 
-.smol{
-font-size: 9px;
+.smol {
+    font-size: 9px;
 }
 
 
-.smol2{
+.smol2 {
     font-size: 12px;
-    }
+}
 
-.medium{
+.medium {
     font-size: 15px;
 }
 
-.medium2{
+.medium2 {
     font-size: 18px;
 }
 
 
 
-.medium-adapt{
+.medium-adapt {
     font-size: 1.5rem;
 }
 
 
-.biggie{
+.biggie {
     font-size: 22px;
 }
 
-.biggie2{
+.biggie2 {
     font-size: 26px;
 }
 
 
-.giant{
+.giant {
     font-size: 34px;
+
+}
+
+.gaps {
+    line-height: 0.5;
+}
+
+.gaps-wide {
+    line-height: 2.5;
+}
+
+.kerning {
+    letter-spacing: 10px;
+}
+
+.transform {
+    text-transform: capitalize;
+}
+
+
+.upper {
+    text-transform: uppercase;
+}
+
+
+.lower {
+    text-transform: lowercase;
+}
+
+
+.left {
+    text-align: left;
+    margin-left: 0 25% 0 25%;
+    padding: 0 10% 0 10%;
+
+
+}
+
+.right {
+    text-align: right;
+    margin-left: 0 25% 0 25%;
+    padding: 0 10% 0 10%;
+
+}
+
+.center {
+    text-align: center;
+    margin-left: 0 25% 0 25%;
+    padding: 0 10% 0 10%;
+
+}
+
+
+.justify-div {
+    margin-left: 0 25% 0 25%;
+    padding: 0 10% 0 10%;
+    text-align: justify;
 
 }
